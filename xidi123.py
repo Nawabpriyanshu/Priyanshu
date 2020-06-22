@@ -64,17 +64,17 @@ logo='''
 \033[1;92m ┈┈┈┈╱▔▔▔▔╲┈┈┈┈☞☞☞☞☞☞\033[1;91m☜☜☜☜☜┈┈┈┈╱▔▔▔▔╲┈┈┈┈
 \033[1;92m ┈┈┈▕▕╲┊┊╱▏▏┈┈┈☞☞☞☞☞☞\033[1;91m☜☜☜☜☜┈┈┈▕▕╲┊┊╱▏▏┈┈┈
 \033[1;92m ┈┈┈▕▕▂╱╲▂▏▏┈┈┈☞☞☞☞☞☞\033[1;91m☜☜☜☜☜┈┈┈▕▕▂╱╲▂▏▏┈┈┈
-\033[1;92m ┈┈┈┈╲┊┊┊┊╱┈┈┈┈\033[1;96mXIDI-PAKISTANI.\033[1;91m┈┈┈┈╲┊┊┊┊╱┈┈┈┈
+\033[1;92m ┈┈┈┈╲┊┊┊┊╱┈┈┈┈\033[1;96mPRIYANSHU-INDIAN.\033[1;91m┈┈┈┈╲┊┊┊┊╱┈┈┈┈
 \033[1;92m ┈┈┈┈▕╲▂▂╱▏┈┈┈┈☞☞☞☞☞☞\033[1;91m☜☜☜☜☜┈┈┈┈▕╲▂▂╱▏┈┈┈┈
 \033[1;92m ╱▔▔▔▔┊┊┊┊▔▔▔▔╲☞☞☞☞☞☞\033[1;91m☜☜☜☜☜╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-\033[1;92m................\033[1;96mXIDI-PAKISTANI\033[1;91m...............
+\033[1;92m................\033[1;96mPRIYANSHU-INDIAN\033[1;91m...............
 \033[1;92m................\033[1;96m✬🄵🄰🄲🄴🄱🄾🄾🄺✬\033[1;91m..............
 
 \033[1;96m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-\033[1;91m☞ Auther     : xidi-pakistani✅
-\033[1;92m☞ Facebook : Muhammad Ibtasam
-\033[1;95m☞ YouTube    : https://youtu.be/KvfnSttarOo
+\033[1;91m☞ Auther     : PRIYANSHU HEART HACKER
+\033[1;92m☞ Facebook : PRIYANSHU GUPTA 007
+\033[1;95m☞ YouTube    : https://youtu.be/Priyanshugupta009
 
 \033[1;96m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
                                 '''
@@ -146,8 +146,8 @@ def menu():
 	print (S + 50*'-')
 	print
 	print (S + '[' + P + '☞1' + S + ']' + S + ' Fast Cloning New Update')
-	print (S + '[' + P + '☞2' + S + ']' + S + ' Update XIDI PAKISTANI Tool')
-	print (S + '[' + P + '☞3' + S + ']' + S + ' XIDI-PAKISTANI')
+	print (S + '[' + P + '☞2' + S + ']' + S + ' Update PRIYANSHU HACKERTool')
+	print (S + '[' + P + '☞3' + S + ']' + S + ' PRIYANSHU-HACKER')
 	print (S + '[' + Y + '☞4' + S + ']' + G + ' Log Out')
 	print (S + '[' + Y + '☞0' + S + ']' + R + ' Exit')
 	print
@@ -180,11 +180,11 @@ def mb():
 	    psb('☆☆☆☆☆☆☆☆☆☆100%')
 	    psb('Frends login new Account✓')
 	    psb('facebook id M.Ibtasam✓')
-	    psb('WellCome To xidi-pakistani')
-	    psb('Congratulations XIDI-PAKISTANI Tool Has Been Updated Successfully')
-	    psb('🔓User Name☆ xidi✓')
+	    psb('WellCome To PRIYANSHU-HACKER')
+	    psb('Congratulations PRIYANSHU-HACKER Tool Has Been Updated Successfully')
+	    psb('🔓User Name☆ PRIYANSHU✓')
 	    psb('🔓Password ☆ pakistani✓')
-	    psb('Subscrib My Youtube Chenal xidi pakistani✓')
+	    psb('Subscrib My Youtube Chenal PRIYANSHU GUPTA✓')
 	    psb('Please Login Again')
 	    time.sleep(2)
 	    os.system('cd $HOME/xidi123 && python2 xidi.py')
